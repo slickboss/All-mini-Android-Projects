@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WoleW</string>
+    <string name="drawer_opened">Select an Item</string>
+    <string name="drawer_closed">WoleWale</string>
+</resources>

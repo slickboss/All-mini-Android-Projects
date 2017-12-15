@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="60dp"
+
+    tools:context="com.slickiesbrand.kinrolie.MainActivity"
+    android:background="@drawable/mat15">
+
+
+
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/profile"
+        />
+
+
+    <TextView
+        android:id="@+id/headline_about"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome To WoleWale's Court"
+        android:textSize="24sp"
+
+        android:textStyle="bold"
+        android:layout_below="@+id/image1"
+        android:textColor="#ffffff" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:id="@+id/scrollView"
+        android:layout_below="@+id/headline_about"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/mat15">
+
+
+        <TextView
+            android:id="@+id/gdgText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+
+            android:text="@string/home_text"
+            android:textColor="#fefcfc"
+            android:textIsSelectable="true"
+            android:autoText="false"
+            android:background="@drawable/mat16" />
+
+    </ScrollView>
+
+
+
+
+
+
+</RelativeLayout>

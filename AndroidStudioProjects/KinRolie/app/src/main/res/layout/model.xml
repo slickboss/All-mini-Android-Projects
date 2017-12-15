@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+    <ImageView
+        android:id="@+id/image_icon"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="15dp"
+        android:padding="5dp"
+        android:src="@drawable/prod1"/>
+
+
+    <TextView
+        android:id="@+id/text_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="status"
+        android:layout_alignParentTop="true"
+        android:layout_alignEnd="@+id/text_info" />
+
+
+    <TextView
+        android:id="@+id/text_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.25"
+        android:textColor="#f7fab221"
+        android:textAppearance="?android:attr/textAppearanceButton"
+        android:text="Title"
+        android:fontFamily="sans-serif"
+        android:layout_below="@+id/text_status"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/image_icon" />
+
+
+
+
+    <TextView
+        android:id="@+id/text_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.15"
+        android:textColor="#27e666"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Info"
+        android:layout_alignEnd="@+id/text_title"
+        android:layout_toEndOf="@+id/image_icon"
+        android:layout_below="@+id/text_title"
+        android:layout_alignBottom="@+id/image_icon" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

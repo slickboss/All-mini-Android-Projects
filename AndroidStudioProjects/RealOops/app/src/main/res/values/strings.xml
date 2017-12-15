@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Oops Apps</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="image_upload">Upload</string>
+    <string name="title_activity_about">About GDG</string>
+    <string name="oops_Android_web">Oops Android Web</string>
+    <string name="trends">Trends</string>
+    <string name="OopsDay">Oops of the Day</string>
+
+
+</resources>

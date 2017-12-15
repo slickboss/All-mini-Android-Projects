@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyCoolApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_gdg_longtext">Google Developers Group Adekunle Ajasin University is an inspired group created to enlighten and impact and impact knowledge on people who is interested in technologyand learning Google technologies, also to share ideas and impact knowledge together in anyway to improve Google technologies.  GDG are developers who are interested in google developer tech, everything from the Android, App Engine and Google Chrome platforms, to product APIs like Maps API, YouTube API and google Calendar API GDG can take many forms from just a few people together to watch google latest videos, to large gatherings with demos and tech talk, to events like code sprint and hackathons. However, at the core, GDGs are focused
+        on developers and technical content , core audience are mostly developers</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="image_upload">Upload</string>
+    <string name="title_activity_about">About GDG</string>
+    <string name="AAUA_Android_web">AAUA Android Web</string>
+    <string name="title_activity_events">EventsActivity</string>
+    <string name="Events">Events</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="Product">Product</string>DetailActivity
+    <string name="title_activity_detail"></string>
+
+    <string name="Product_info">Product_info:</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>

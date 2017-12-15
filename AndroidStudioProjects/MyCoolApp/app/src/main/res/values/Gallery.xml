@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gallery">
+        <item>Google io</item>
+        <item>Firebase</item>
+        <item>Polymer</item>
+        <item>GCP Next</item>
+        <item>Web Progressive Apps</item>
+        <item>DevFest</item>
+        <item>Json</item>
+
+
+    </string-array>
+
+</resources>

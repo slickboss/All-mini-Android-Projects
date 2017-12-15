@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WoleWale App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_text"> WOLEWALEs Court Every meal is a delight, Wolewale is a farm which deals in selling fresh
+        and life animals, produce ranging from Snails, Chicken, Smoked fish and Eggs. The company has traditionally
+        served local livestock produce which is well dissected and properly packaged for consumption.
+        We give you the best meal taste that can make you fresh and feel better,
+        its chemical free, 100% Fresh, Killed, Cleaned and Well packaged, Our items do not last
+    more than 24hrs and it is edible and easy to cook. We also make sale of a Day Old and Four(4)weeks Old chicks.
+
+
+    </string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_product">Products</string>
+    <string name="Product_info">product descriptions</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_card_view">Our Museum</string>
+</resources>
